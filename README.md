@@ -3,5 +3,4 @@ getting familiar with how cloning works
 
 This is the decription of my repo
 
-Modification in main branch
-s
+Modification in main branch.
