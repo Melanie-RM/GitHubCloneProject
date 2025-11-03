@@ -1,2 +1,2 @@
-This is a new feature
+This is a new feature.
 practicing how to navigate repos between my local space and git
